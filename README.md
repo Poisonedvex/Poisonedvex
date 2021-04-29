@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning algebra
 - 💞️ I’m looking to collaborate on other games
 - 📫 How to reach me discord Poisonedvex#2904
+- opensesame(github);
+-
 
 
 <!---
